@@ -1,0 +1,2 @@
+In this code  We learned how to work with real-world datasets. We processed CSV and GeoJSON files, and extracted the data We want to focus on. Using historical weather data, We learned more about working with Matplotlib, including how to use the datetime module and how to plot multiple data series on one chart.we plotted geographical data on a world map in Plotly, and learned to customize the style of the map.
+As we gain experience working with CSV and JSON files,we’ll be able to process almost any data we want to analyze.
